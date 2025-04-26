@@ -1,4 +1,5 @@
 echo "Welcome to bat file from Git Repo"
 echo "Thank you for Interest"
 echo "Glad to meet You."
-java demo.java
+javac demo.java
+java demo
