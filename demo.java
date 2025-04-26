@@ -1,6 +1,6 @@
 public class demo {
     public static void main(String[] args) {
-        System.out.println("New Added Message from Git to check new commits will trigger auto builds");
+        System.out.println("check new commits will trigger auto builds");
         System.out.println("Java from git");
         System.out.println("Thank You from Java");
     }
